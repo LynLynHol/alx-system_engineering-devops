@@ -16,4 +16,6 @@ script that creates a directory in the /tmp/ director
 y
 move file betty from /tmp/ to /tmp/my firstdirector
 y
-remove the file betty from /tmp/my first directory
+remove the file betty from /tmp/my first director
+y
+Delete my first directory
