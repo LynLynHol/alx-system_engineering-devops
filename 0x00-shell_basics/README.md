@@ -14,4 +14,6 @@ lists all files including hidden in the current directory numericall
 y
 script that creates a directory in the /tmp/ director
 y
-move file betty from /tmp/ to /tmp/my firstdirectory
+move file betty from /tmp/ to /tmp/my firstdirector
+y
+remove the file betty from /tmp/my first directory
