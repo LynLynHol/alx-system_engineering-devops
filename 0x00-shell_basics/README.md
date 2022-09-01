@@ -23,4 +23,6 @@ y
 Changes current directory to the previous on
 e
 lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
-Prints the type of file named iamafile which is in the /tmp directory
+Prints the type of file named iamafile which is in the /tmp director
+y
+Create a symbolic link of /bin/ls in the current working directory
