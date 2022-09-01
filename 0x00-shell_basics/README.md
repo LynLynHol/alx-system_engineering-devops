@@ -12,4 +12,6 @@ lists all files including hidden ones in long forma
 t
 lists all files including hidden in the current directory numericall
 y
-script that creates a directory in the /tmp/ directory
+script that creates a directory in the /tmp/ director
+y
+move file betty from /tmp/ to /tmp/my firstdirectory
