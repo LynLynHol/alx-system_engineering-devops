@@ -8,4 +8,6 @@ script that changes the working directory to the user’s home director
 y
 list the contents of the working directory in long forma
 t
-lists all files including hidden ones in long format
+lists all files including hidden ones in long forma
+t
+lists all files including hidden in the current directory numerically
