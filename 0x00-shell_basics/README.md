@@ -18,4 +18,6 @@ move file betty from /tmp/ to /tmp/my firstdirector
 y
 remove the file betty from /tmp/my first director
 y
-Delete my first directory
+Delete my first director
+y
+Changes current directory to the previous one
