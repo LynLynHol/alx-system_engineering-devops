@@ -25,4 +25,6 @@ e
 lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 Prints the type of file named iamafile which is in the /tmp director
 y
-Create a symbolic link of /bin/ls in the current working directory
+Create a symbolic link of /bin/ls in the current working director
+y
+Copy all .html files from the current to the parent directory but only newer versions or files that do not exist already in the parent directory
