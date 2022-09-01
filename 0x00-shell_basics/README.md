@@ -10,4 +10,6 @@ list the contents of the working directory in long forma
 t
 lists all files including hidden ones in long forma
 t
-lists all files including hidden in the current directory numerically
+lists all files including hidden in the current directory numericall
+y
+script that creates a directory in the /tmp/ directory
