@@ -9,3 +9,4 @@ This script give no permission at all to the owner or the group but gives permis
 This script sets the mode of the file hello to -rwxr-x-wx
 This script mirrors permissions such that the new file called olleh has the same permissions as the file hello
 This script adds execute permission to all subdirectories of the current directory for the owner,the group owner and all other users without changing regular files
+This script creates a directory with permissions 751in the currently working directory
