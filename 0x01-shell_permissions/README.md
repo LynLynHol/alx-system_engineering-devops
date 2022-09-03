@@ -12,3 +12,4 @@ This script adds execute permission to all subdirectories of the current directo
 This script creates a directory with permissions 751in the currently working directory
 This script changes the group owner of hello to school
 This script changes the owner to vincent and the group owner to staff
+This script changes owner and group owner for all the files and directories in the working directory
