@@ -1,0 +1,1 @@
+This script gives execute permission to the owner and the the group owner of the file hello, but onlyallows read permission to others who interact with the file
