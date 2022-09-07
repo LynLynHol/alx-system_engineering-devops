@@ -4,3 +4,4 @@ This script adds a directory to a path making sure it is the last to be viewed o
 This script counts the total number of directories on the PATH
 This script prints environmental variables
 This script lists local variables, environmental variables and functions
+This script creates a local variable with the name best and value school
