@@ -5,3 +5,4 @@ This script counts the total number of directories on the PATH
 This script prints environmental variables
 This script lists local variables, environmental variables and functions
 This script creates a local variable with the name best and value school
+This script creates a global variable with the name best and value school
