@@ -1,1 +1,1 @@
-Script that writes the results of ls -la int a named file
+This script prints hello world with a new line to the standard output
