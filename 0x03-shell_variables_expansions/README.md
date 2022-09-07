@@ -10,3 +10,4 @@ This script prints the result of the addition of 128 with the value kept in the 
 This script contains local variables power and divide.Power is divided by divide
 This script prints the environment variables breath to the power love
 This script converts a number from base 2 to base 10
+This script prints a combination of laters a-z without printing oo.Each combination is on its own line.The output is alpha ordered starting with aa
