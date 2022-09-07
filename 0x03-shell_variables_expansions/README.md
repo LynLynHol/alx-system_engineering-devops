@@ -12,3 +12,4 @@ This script prints the environment variables breath to the power love
 This script converts a number from base 2 to base 10
 This script prints a combination of laters a-z without printing oo.Each combination is on its own line.The output is alpha ordered starting with aa
 This script prints a number in 2 decimal places and stores the result in an environmental variable
+This script converts a decimal number from base 10 to base 16.The number in base 10 is stored in the environment variable decimal.The number in base 16 is followed by a new line
