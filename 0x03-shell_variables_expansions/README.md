@@ -9,3 +9,4 @@ This script creates a global variable with the name best and value school
 This script prints the result of the addition of 128 with the value kept in the environment variable TRUEKNOWLEDGE followed by a new line
 This script contains local variables power and divide.Power is divided by divide
 This script prints the environment variables breath to the power love
+This script converts a number from base 2 to base 10
