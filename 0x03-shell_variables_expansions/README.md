@@ -6,3 +6,4 @@ This script prints environmental variables
 This script lists local variables, environmental variables and functions
 This script creates a local variable with the name best and value school
 This script creates a global variable with the name best and value school
+This script prints the result of the addition of 128 with the value kept in the environment variable TRUEKNOWLEDGE followed by a new line
